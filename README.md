@@ -3,13 +3,12 @@ In urma informarii despre mai multe servere am decis sa utilizez serverul postma
 
 Functionalitatea metodelor:
 
-> [Metoda GET] - returneaza o pagina de utilizatori
+-  Metoda GET - returneaza o pagina de utilizatori
+-  Metoda PUT - adauga un nou utilizator
+-  Metoda DELETE - sterge un utilizator
+-  Metoda POST - autentificare cu succes
 
-> Metoda PUT - adauga un nou utilizator
+[Link util](https://assertible.com/blog/7-http-methods-every-web-developer-should-know-and-how-to-test-them)
 
-> Metoda DELETE - sterge un utilizator
-
-> Metoda POST - autentificare cu succes
-
-
+[Link util](https://www.youtube.com/watch?v=OaJ43rTJRqw)
 
